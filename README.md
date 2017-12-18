@@ -8,6 +8,9 @@ Made for GTK3, unknown if other versions supported.
 
 
 To get working:
+
 Add "export_x_info.sh" to crontab @reboot
+
 Add your chosen images to the nightmode directory as "DAY" and "NIGHT"
+
 Restart - it should now work.
